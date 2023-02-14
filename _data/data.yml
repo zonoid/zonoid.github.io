@@ -85,21 +85,30 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Web Developer
+      - role: Full Stack Developer
         time: 2018 - Present
         company: Jdonate.com, Knoxville, Tennessee
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          As a Full Stack Developer, I have designed and developed web applications 
+          using a range of technologies such as HTML, CSS, JavaScript, and various 
+          frameworks. I have utilized server-side technologies like PHP to build RESTful
+          APIs and web services, and have integrated with third-party services like 
+          PayPal, Stripe, and CloudConvert.com to enable online payments, file conversions, 
+          and other features. Additionally, I have experience with server maintenance, 
+          database management, deployment to cloud platforms, version control, automated 
+          testing, code review, and troubleshooting.
+            - Designed and developed full stack web applications using technologies such as HTML, CSS, JavaScript, and various frameworks            
+            - Utilized server-side technologies such as PHP to build RESTful APIs and web services
+            - Integrated payment gateways such as PayPal and Stripe to process online payments securely and efficiently
+            - Integrated CloudConvert.com API to enable file conversion and manipulation within the application
+            - Developed custom Joomla and WordPress themes and plugins to meet project requirements
+            - Collaborated with UI/UX designers to create responsive and visually appealing user interfaces
+            - Managed and maintained the application server, including OS upgrades, security patches, and server configuration changes
+            - Monitored server logs to identify and resolve issues related to server performance and application uptime
+            - Integrated with third-party services such as authentication providers and social media platforms to enhance user experience
+            - Built and maintained databases using technologies such as MySQL, MongoDB, and PostgreSQL            
+            - Used version control systems such as Git to manage codebase and collaborate with other developers            
+            - Troubleshot and debugged issues in a timely manner to maintain uptime and user experience            
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
