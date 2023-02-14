@@ -87,7 +87,7 @@ experiences:
     info:
       - role: Full Stack Developer
         time: 2018 - Present
-        company: Jdonate.com, Knoxville, Tennessee
+        company: Jdonate.com | Knoxville, Tennessee
         details: |
           As a Full Stack Developer, I have designed and developed web applications 
           using a range of technologies such as HTML, CSS, JavaScript, and various 
@@ -109,28 +109,50 @@ experiences:
             - Built and maintained databases using technologies such as MySQL, MongoDB, and PostgreSQL            
             - Used version control systems such as Git to manage codebase and collaborate with other developers            
             - Troubleshot and debugged issues in a timely manner to maintain uptime and user experience            
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Joomla Developer
+        time: 2013 - 2017
+        company: Sourcecoast.com | Austin, Texas
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          As a Joomla Developer for JFBConnect extension, I developed
+          and maintained the integration of Joomla websites with social
+          networks such as Facebook, Twitter, and LinkedIn. I customized
+          the extension to meet specific client requirements, built new
+          features, and enhanced existing ones. I worked with the support
+          team, conducted code reviews, collaborated with the product
+          team, and participated in the release process. I stayed up 
+          to date with the latest Joomla technologies, social networking 
+          trends, and user needs. I provided training and support to 
+          clients and contributed to the JFBConnect community.
+          pellentesque eu, pretium quis, sem.           
+            - Developed and maintained JFBConnect, a Joomla extension that integrates Joomla websites with social networks like Facebook, Twitter, LinkedIn, and more.
+            - Customized the extension to meet specific client requirements, ensuring seamless integration with their websites and social media accounts.
+            - Built new features and enhanced existing ones to provide users with a rich and dynamic social networking experience.
+            - Worked closely with the support team to troubleshoot issues, diagnose problems, and provide effective solutions to users.
+            - Conducted code reviews and wrote technical documentation to ensure that JFBConnect adhered to best practices and standards.
+            - Collaborated with the product team to define product roadmaps, set priorities, and deliver features that met user needs and expectations.
+            - Participated in the extension's release process, including testing, debugging, and documentation.
+            - Kept up to date with the latest Joomla technologies, trends in social networking, and user needs to maintain JFBConnect's competitive edge.
+            - Provided training and support to clients, including installation, configuration, and customization of the extension.           
+      - role: Joomla Developer
+        time: 2010 - 2012
+        company: Dioscouri Design | New York, New York
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          As a Joomla Developer, I added new features and fixed bugs 
+          for existing Joomla extensions, such as Tienda, Billets, 
+          and Amigos, using PHP and Joomla framework. I worked 
+          collaboratively with project managers, designers, and 
+          other developers to meet client requirements and provide 
+          high-quality solutions. Additionally, I conducted testing 
+          and debugging, integrated third-party APIs and plugins, 
+          and provided technical support to clients. I regularly 
+          updated and maintained Joomla extensions, participated in 
+          code reviews, and implemented best practices for Joomla development.
+            - Worked on developing new features and improving existing ones for Joomla extensions such as Tienda, Billets, and Amigos.
+            - Conducted thorough testing and debugging to fix any bugs and ensure optimal performance of Joomla extensions.
+            - Collaborated with the team to identify and implement solutions for any issues or challenges that arose during development.
+            - Regularly updated and maintained Joomla extensions to ensure compatibility with the latest versions of Joomla and other web technologies.
+            - Provided technical support to clients and resolved any issues related to Joomla extensions, including fixing bugs and addressing any user concerns.
+            - Participated in code reviews and implemented best practices for Joomla development, including efficient coding techniques, adherence to coding standards, and documentation practices.
 projects:
     title: Projects
     intro: >
