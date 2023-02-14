@@ -60,9 +60,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BS in Computer Enginerring
+      - degree: BS in Computer Engineering
         university: Technological Institute of the Philippines
-        time: 2011 - 2012
+        time: 2002 - 2005
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -71,9 +71,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
+      - degree: Diploma in Mechanical Engineering Technology
         university: MSU - Iligan Institute of Technology
-        time: 2000 - 2011
+        time: 2000 - 2002
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -85,9 +85,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Web Developer
+        time: 2018 - Present
+        company: Jdonate.com, Knoxville, Tennessee
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -194,20 +194,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PHP
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Joomla
         level: 98%
 
-      - name: Angular
+      - name: Wordpress
         level: 98%
+
+      - name: Javascript
+        level: 98%
+
+      - name: React & Vue
+        level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 98%
 
-      - name: Ruby on Rails
+      - name: Website Administration
         level: 85%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 70%
