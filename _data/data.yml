@@ -56,12 +56,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A highly skilled and experienced Full Stack Developer with over 10 years of experience in web development. Expert in Joomla and proficient in WordPress development, with top-notch front-end skills utilizing technologies such as Alpine.js, React, Vue, and Vanilla JavaScript. Possess a deep understanding of Object-Oriented Programming (OOP) concepts, software design patterns, and SQL, enabling the writing of maintainable and scalable code. Passionate about software testing and debugging, with experience in SEO, e-commerce, and API integration. Proven track record of delivering high-quality work on time and on budget, with excellent collaboration and communication skills. Always up-to-date with the latest web development trends and technologies, constantly seeking ways to improve skills and knowledge.
+      A highly skilled and experienced Full Stack Developer with over 10 years of experience in web development. Expert in Joomla and proficient in WordPress development, with strong front-end skills. Possess a deep understanding of Object-Oriented Programming (OOP) concepts, software design patterns, and SQL, enabling the writing of maintainable and scalable code. Passionate about software testing and debugging, with experience in SEO, e-commerce, and API integration. Proven track record of delivering high-quality work on time and on budget, with excellent collaboration and communication skills. Always up-to-date with the latest web development trends and technologies, constantly seeking ways to improve skills and knowledge.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: BS in Computer Enginerring
+        university: Technological Institute of the Philippines
         time: 2011 - 2012
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
