@@ -46,12 +46,15 @@ sidebar:
       info:
         - item: Online Games
           link:
+          icon: gamepad
 
         - item: Cooking
           link:
+          icon: cutlery
 
         - item: Reading
           link:
+          icon: book
 
 career-profile:
     title: Career Profile
