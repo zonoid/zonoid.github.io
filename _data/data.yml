@@ -7,61 +7,56 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Gerald R. Zalsos
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: ijinfx@gmail.com
+    phone: +63 936 732 0891
+    timezone: Philippine Standard Time
+    citizenship: Filipino
+    website: zonoid.github.io #do not add http://
+    linkedin: ijinfx
+    xing: 
+    github: zonoid
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ijinfx'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Filipino
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Cebuna
+          level: Native
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Online Games
           link:
 
         - item: Cooking
           link:
 
+        - item: Reading
+          link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A highly skilled and experienced Full Stack Developer with over 10 years of experience in web development. Expert in Joomla and proficient in WordPress development, with top-notch front-end skills utilizing technologies such as Alpine.js, React, Vue, and Vanilla JavaScript. Possess a deep understanding of Object-Oriented Programming (OOP) concepts, software design patterns, and SQL, enabling the writing of maintainable and scalable code. Passionate about software testing and debugging, with experience in SEO, e-commerce, and API integration. Proven track record of delivering high-quality work on time and on budget, with excellent collaboration and communication skills. Always up-to-date with the latest web development trends and technologies, constantly seeking ways to improve skills and knowledge.
 education:
     title: Education
     info:
