@@ -6,11 +6,11 @@ jQuery(document).ready(function($) {
 
         $('.level-bar-inner').each(function() {
         
-            var itemWidth = $(this).data('level');
+           /* var itemWidth = $(this).data('level');
             
             $(this).animate({
                 width: itemWidth
-            }, 800);
+            }, 800);*/
             
         });
 
