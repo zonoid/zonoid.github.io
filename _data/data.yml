@@ -59,16 +59,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A highly skilled and experienced Full Stack Developer with over 10 years of 
-      experience in web development. Expert in Joomla and proficient in WordPress 
-      development, with strong front-end skills. Possess a deep understanding of 
-      Object-Oriented Programming (OOP) concepts, software design patterns, and SQL, 
-      enabling the writing of maintainable and scalable code. Passionate about 
-      software testing and debugging, with experience in SEO, e-commerce, and API 
-      integration. Proven track record of delivering high-quality work on time and 
-      on budget, with excellent collaboration and communication skills. Always up-to-date 
-      with the latest web development trends and technologies, constantly 
-      seeking ways to improve skills and knowledge.
+      An accomplished Full Stack Developer with over a decade of expertise in web development. Specialized in Joomla and WordPress development, with a strong proficiency in both front-end and back-end development. Possesses robust skills in Object-Oriented Programming (OOP) principles, software design patterns, and SQL, enabling the creation of scalable and maintainable code. Adept in software testing and debugging, with a comprehensive understanding of SEO, e-commerce, and API integration. Demonstrated success in consistently delivering high-quality projects within deadlines and budget constraints. Possesses exceptional collaboration and communication abilities. Remains abreast of the latest web development trends and technologies, consistently pursuing opportunities for skill and knowledge enhancement.
 education:
     title: Education
     info:
@@ -99,6 +90,18 @@ experiences:
     info:
       - role: Full Stack Developer
         time: 2018 - Present
+        company: US Realty Hub, LLC | Orlando, Florida
+        details: |
+          As a WordPress Developer, I am entrusted with the design and development of dynamic web applications within the WordPress framework. Leveraging over a decade of experience as a Full Stack Developer, I bring a comprehensive skill set to create seamless user experiences and implement tailored solutions. Key highlights of my contributions include:
+            - Developing and customizing WordPress themes and plugins to meet project requirements, ensuring a responsive and visually appealing user interface.            
+            - Utilizing PHP and other technologies to integrate RESTful APIs and web services, enhancing the functionality and interactivity of WordPress websites.
+            - Collaborating with UI/UX designers to create visually compelling and user-friendly interfaces, ensuring a positive and intuitive user experience.
+            - Implementing and optimizing payment gateways such as PayPal and Stripe for secure and efficient online transactions.
+            - Extending expertise in troubleshooting, debugging, and resolving issues promptly to maintain optimal website performance and user satisfaction.
+            - Integrating various APIs, including but not limited to Dropbox and Zoho, to streamline processes, enhance functionality, and improve data management within WordPress applications.          
+            - Managing server infrastructure, conducting database management, and ensuring continuous monitoring for optimal website functionality.
+      - role: Full Stack Developer
+        time: 2018 - June, 2023
         company: Jdonate.com | Knoxville, Tennessee
         details: |
           As a Full Stack Developer, I have designed and developed web applications 
